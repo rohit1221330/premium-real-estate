@@ -1,0 +1,42 @@
+export const properties = [
+  {
+    id: 1,
+    title: "Luxury 3BHK Apartment",
+    location: "Golf Course Road, Gurgaon",
+    price: "₹ 2.5 Cr",
+    type: "Apartment",
+    status: "For Sale",
+    image: "https://images.unsplash.com/photo-1600596542815-e32cb1413847?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    specs: "3 Beds • 3 Baths • 1850 sqft",
+  },
+  {
+    id: 2,
+    title: "Premium Villa with Pool",
+    location: "Sector 104, Noida",
+    price: "₹ 4.2 Cr",
+    type: "Villa",
+    status: "For Sale",
+    image: "https://images.unsplash.com/photo-1613977257363-707ba9348227?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    specs: "4 Beds • 5 Baths • 3200 sqft",
+  },
+  {
+    id: 3,
+    title: "Commercial Office Space",
+    location: "Cyber City, Delhi",
+    price: "₹ 1.8 Cr",
+    type: "Office",
+    status: "For Sale",
+    image: "https://images.unsplash.com/photo-1497366216548-37526070297c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    specs: "1200 sqft • Furnished",
+  },
+  {
+    id: 4,
+    title: "Affordable 2BHK Flat",
+    location: "Dwarka Expressway",
+    price: "₹ 85 Lac",
+    type: "Apartment",
+    status: "For Sale",
+    image: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    specs: "2 Beds • 2 Baths • 1100 sqft",
+  }
+];
